@@ -8,8 +8,8 @@
 
 			embeddedservice_bootstrap.init(
 				'00D7Z00000053zg',
-				'Test_MIAW_Queue_based_Message_Channel',
-				'https://hsecovax--dev31.sandbox.my.site.com/ESWTestMIAWQueuebased1708372230006',
+				'MIAW_for_Bot_on_Git',
+				'https://hsecovax--dev31.sandbox.my.site.com/ESWMIAWforBotonGit1707755430647',
 				{
 					scrt2URL: 'https://hsecovax--dev31.sandbox.my.salesforce-scrt.com'
 				}
@@ -19,7 +19,7 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://hsecovax--dev31.sandbox.my.site.com/ESWTestMIAWQueuebased1708372230006/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://hsecovax--dev31.sandbox.my.site.com/ESWMIAWforBotonGit1707755430647/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 
 <h1>My First Heading</h1>
 
